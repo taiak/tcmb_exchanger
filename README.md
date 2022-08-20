@@ -1,5 +1,5 @@
 # TCMB EXCHANGER
-Calculates the exchange rates over the daily exchange rates given by the [TCMB(Türkiye Cumhuriyet Merkez Bankası) link.](https://www.tcmb.gov.tr/kurlar/today.xml).
+Calculates the exchange rates over the daily exchange rates given by the [TCMB(Türkiye Cumhuriyet Merkez Bankası) link](https://www.tcmb.gov.tr/kurlar/today.xml).
 
 # Installation
 
